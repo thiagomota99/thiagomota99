@@ -1,6 +1,5 @@
 ### Opa, bão? Me chamo Thiago e seja muito bem-vindo(a) ao meu perfil!! 👋
 
-![Snake animation](https://github.com/thiagomota99)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomota99&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomota99&bg_color=000000&title_color=fffefe&icon_color=fffefe=border_color=fffefe&text_color=fffefe)](https://github.com/anuraghazra/github-readme-stats)
